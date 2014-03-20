@@ -1,5 +1,5 @@
 {
-    "name" : "henrikbjorn/phpspec-code-coverage",
+    "name" : "bryantebeek/phpspec-code-coverage",
     "description" : "Integrates CodeCoverage with PhpSpec",
     "license" : "MIT",
 
@@ -10,7 +10,7 @@
     "require" : {
         "php"                       : ">=5.3.3",
         "phpspec/phpspec"           : "2.0.*@dev",
-        "phpunit/php-code-coverage" : "~1.2"
+        "phpunit/php-code-coverage" : "2.0.*@dev"
     },
 
     "extra" : {
